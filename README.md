@@ -8,7 +8,7 @@
 🎯 Aiming to make a positive impact through code
 
 🌐 Socials:
-Instagram LinkedIn [Quora](https://quora.com/profile/ MIDLAJ AHMAD)
+Instagram LinkedIn 
 
 💻 Tech Stack:
 C Java HTML5 CSS3 JavaScript GithubPages Bootstrap NodeJS React MySQL Adobe Premiere Pro Adobe Lightroom Classic
